@@ -1,2 +1,2 @@
 # Artificial-intelligence
-__assignments
+_assignments
