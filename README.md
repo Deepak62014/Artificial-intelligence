@@ -1,2 +1,3 @@
 # Artificial-intelligence
-_assignments
+* assignment1
+* assignment2
